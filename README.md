@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitishjha6
 - 👀 I’m interested in Data science & Machine learning
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently a undergrad student.
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me NITISHTHEGREAT6@GMAIL.COM
 
